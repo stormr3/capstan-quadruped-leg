@@ -11,8 +11,11 @@ Gear-driven joints often introduce backlash, which negatively affects force cont
 - Reviewed physical interpretations using pulley and winch analogies
 - Analyzed the role of static vs kinetic friction in holding and motion
 - Clarified the dynamic nature of tight and loose sides in symmetric systems
+- Developed conceptual understanding of capstan mechanics, including tension-based torque transmission and frictional effects during holding and motion
+- Designed and modeled a two-drum capstan drive in Fusion 360 with a large radius ratio to visualize torque transmission
+- Implemented helical grooves on both drums to guide the cable axially during multiple wraps and prevent lateral slip
+- Created a kinematic motion model to visualize input–output rotation
+
 
 ## Next Steps
-- Build physical and conceptual intuition by extending understanding from a single-rope pulley system to a capstan-based transmission
-- Translate this understanding into a Stage-1 capstan actuator design in Fusion 360, with an emphasis on visualizing smooth and backlash-free motion through animation
 - Study the kinematic principles of five-bar linkages and begin conceptual integration with the capstan-driven actuation system

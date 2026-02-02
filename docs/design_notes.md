@@ -63,3 +63,10 @@ The five-bar linkage requires two independently actuated base joints. Placing tw
 - One capstan drum includes a central bore for the shaft, while the other input link is driven directly through the shaft.
 
 This arrangement allows both input links to rotate independently while remaining concentric, enabling a compact and symmetric base configuration.
+
+
+## Actuator–Linkage Integration
+
+The capstan actuator housing was modeled and mechanically integrated with the five-bar linkage. This step focused on verifying spatial compatibility, joint alignment, and feasibility of transmitting actuation from the capstan-driven outputs to the concentric base joints of the linkage.
+
+This integration confirms that the actuator, concentric joint architecture, and five-bar mechanism can coexist within a single mechanical assembly. Detailed structural analysis and hardware-specific constraints are not addressed at this stage.

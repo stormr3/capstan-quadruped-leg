@@ -18,8 +18,5 @@ Gear-driven joints often introduce backlash, which negatively affects force cont
 - Modeled a planar five-bar linkage with realistic link dimensions and fully assembled revolute joints
 - Verified closed-chain motion and end-effector behavior through manual actuation
 - Implemented a concentric base actuation layout to independently drive both five-bar input links in a compact and symmetric configuration
+- Designed and integrated a capstan actuator housing with the five-bar linkage to validate the complete mechanical assembly
 
-
-## Next Steps
-- Conceptually integrate the capstan-driven actuators with the five-bar linkage inputs
-- Observe and document end-effector trajectories for different input motions
